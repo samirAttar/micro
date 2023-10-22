@@ -2,6 +2,8 @@
 Components of microservices architecture :
 ------------------------------------------
 
+
+
 There are many component of MA, few are below :
 1 : API Gateway - An entry point for client requests that routes requests to the appropriate microservices, performs authentication and authorization, and handles other tasks such as caching and request-response mapping.
 
